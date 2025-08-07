@@ -1,8 +1,8 @@
 <h1 align="center">🌱 서재민 🌱</h1>
 
 <p align="center">
-🎯 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=1BC5F1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+Engineer;" />
-🎯 사이드 프로젝트와 기록을 통해 한 걸음씩 나아가고 있습니다.
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=1BC5F1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=1BC5F1&center=true&vCenter=true&width=435&lines=Cloud+Engineer;" />
 </p>
 
 ---
