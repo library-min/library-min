@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=111111,cccccc&height=180&section=header&text=Welcome!&fontSize=45&fontAlign=65&fontColor=ffffff" />
+</p>
+
+
 <h1 align="center">🌱 서재민 🌱</h1>
 
 <p align="center">
