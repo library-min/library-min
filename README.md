@@ -19,7 +19,7 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack (공부중)</h2>
+<h2 align="center">🛠️ Tech Stack (공부)</h2>
 
 <h3 align="center">💻 Frontend</h3>
 <p align="center">
