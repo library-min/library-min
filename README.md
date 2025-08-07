@@ -1,7 +1,7 @@
 <h1 align="center">🌱 서재민 🌱</h1>
 
 <p align="center">
-🎯 꾸준히 성장하는 개발자를 꿈꾸는 <strong>풀스택 & 클라우드 엔지니어 지망생</strong><br/>
+🎯 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=1BC5F1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+Engineer;" />
 🎯 사이드 프로젝트와 기록을 통해 한 걸음씩 나아가고 있습니다.
 </p>
 
