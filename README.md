@@ -1,36 +1,53 @@
-# 👋 **서재민**
+<h1 align="center">🙋‍♂️ 서재민 | Seojae Min</h1>
 
+<p align="center">
+🌱 꾸준히 성장하는 개발자를 꿈꾸는 <strong>풀스택 & 클라우드 엔지니어 지망생</strong><br/>
+🎯 사이드 프로젝트와 기록을 통해 한 걸음씩 나아가고 있습니다.
+</p>
 
-## 🙋‍♂️ About Me
+---
 
-- 🌱 **꾸준히 성장하는 개발자**를 목표로 매일 학습하고 있습니다.
-- 🔭 **풀스택 개발자 & 클라우드 엔지니어**가 되는 것이 목표입니다.
-- 💬 협업과 커뮤니케이션을 중요하게 생각하며, **성장하는 팀**을 지향합니다.
-- 🛠️ 다양한 기술 스택을 학습하며, 사이드 프로젝트를 통해 실력을 다지고 있습니다.
+## 📌 About Me
 
+- 🚀 **목표**: 풀스택 개발자 & 클라우드 엔지니어
+- 💬 **가치**: 협업과 커뮤니케이션을 통한 성장
+- 🧠 **학습법**: 매일 기록, 매일 실전
+- 🛠️ **방식**: 사이드 프로젝트로 직접 부딪히며 학습
 
-## 🛠️ Tech Stack (📚 공부중)
+---
+
+## 🛠️ Tech Stack (공부중)
 
 ### 💻 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+</p>
 
 ### 🖥 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+</p>
 
 ### 🗃 Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+</p>
 
 ### ☁️ Cloud & DevOps
-![Naver Cloud](https://img.shields.io/badge/Naver%20Cloud-03C75A?style=flat&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Naver%20Cloud-03C75A?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+</p>
 
 ### ⚙ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+</p>
 
 ---
 
@@ -44,10 +61,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=library-min&layout=compact&theme=radical)
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=library-min&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=library-min&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=library-min&show_icons=true&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -55,12 +71,14 @@
 
 ## 🔗 Contact & Links
 
-- 🌐 [Notion](https://www.notion.so/Library_Min-s-Library-1d4ebef145e3808cb050f5a72dbafbe1)
-- 📧 Email : [library_mini@outlook.com](mailto:library_mini@outlook.com)
+<p>
+  🌐 <a href="https://www.notion.so/Library_Min-s-Library-1d4ebef145e3808cb050f5a72dbafbe1" target="_blank"><strong>Notion 포트폴리오</strong></a><br/>
+  📧 Email : <a href="mailto:library_mini@outlook.com">library_mini@outlook.com</a>
+</p>
 
 ---
 
-## 🌱 꾸준히 기록하며 성장하고 있습니다!
+## ✍ 성장 기록 중입니다!
 
-> ✍ 기술 블로그나 프로젝트 정리를 Notion에 꾸준히 기록하고 있습니다. <br>
-> 함께 배우고 성장하고 싶다면 언제든지 연락주세요!
+> 꾸준한 기록과 도전을 통해 <br/>
+> **배우고, 공유하고, 함께 성장**하는 개발자가 되겠습니다.
