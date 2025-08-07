@@ -1,7 +1,7 @@
-<h1 align="center">🙋‍♂️ 서재민 | Seojae Min</h1>
+<h1 align="center">🌱 서재민 🌱</h1>
 
 <p align="center">
-🌱 꾸준히 성장하는 개발자를 꿈꾸는 <strong>풀스택 & 클라우드 엔지니어 지망생</strong><br/>
+🎯 꾸준히 성장하는 개발자를 꿈꾸는 <strong>풀스택 & 클라우드 엔지니어 지망생</strong><br/>
 🎯 사이드 프로젝트와 기록을 통해 한 걸음씩 나아가고 있습니다.
 </p>
 
@@ -21,8 +21,8 @@
 ### 💻 Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
 </p>
 
@@ -45,8 +45,8 @@
 ### ⚙ Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
@@ -72,7 +72,7 @@
 ## 🔗 Contact & Links
 
 <p>
-  🌐 <a href="https://www.notion.so/Library_Min-s-Library-1d4ebef145e3808cb050f5a72dbafbe1" target="_blank"><strong>Notion 포트폴리오</strong></a><br/>
+  🌐 <a href="https://www.notion.so/Library_Min-s-Library-1d4ebef145e3808cb050f5a72dbafbe1" target="_blank"><strong>Notion</strong></a><br/>
   📧 Email : <a href="mailto:library_mini@outlook.com">library_mini@outlook.com</a>
 </p>
 
