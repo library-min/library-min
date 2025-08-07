@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0a0a0a,c0c0c0&height=170&section=header&text=Seojae%20Min's%20GitHub&fontSize=45&fontAlign=70&fontColor=ffffff" />
-</p>
-
 <h1 align="center">🌱 서재민 🌱</h1>
 
 <p align="center">
