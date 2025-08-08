@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h2>🌱 서재민 | Jaemin Seo 🌱</h2>
+  <h2>🌱 서재민 🌱</h2>
   <p><strong>성장하는 과정 자체를 즐기는 풀스택 & 클라우드 엔지니어 지망생입니다.</strong></p>
 </div>
 
