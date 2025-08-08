@@ -19,17 +19,21 @@
       </td>
       <td align="center" style="border: none; width: 50%;">
         <h3>💬 가치</h3>
-        <p>투명한 소통과<br/>함께하는 성장</p>
+        <img src="https://img.shields.io/badge/Communication-4285F4?style=flat&logo=googlechat&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Growth-34A853?style=flat&logo=chartmogul&logoColor=white"/>
       </td>
     </tr>
     <tr>
       <td align="center" style="border: none; width: 50%;">
         <h3>🧠 학습법</h3>
-        <p>매일 기록하고<br/>코드로 증명하기</p>
+        <img src="https://img.shields.io/badge/Documenting-000000?style=flat&logo=notion&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Practice-181717?style=flat&logo=github&logoColor=white"/>
       </td>
       <td align="center" style="border: none; width: 50%;">
         <h3>🔗 성장 기록</h3>
-        <p><a href="https://www.notion.so/Library_Min-s-Library-1d4ebef145e3808cb050f5a72dbafbe1"><strong>보러가기</strong></a></p>
+        <a href="https://www.notion.so/Library_Min-s-Library-1d4ebef145e3808cb050f5a72dbafbe1">
+          <img src="https://img.shields.io/badge/Visit_My_Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+        </a>
       </td>
     </tr>
   </tbody>
