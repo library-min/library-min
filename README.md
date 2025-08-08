@@ -65,11 +65,6 @@
   ---
 
   ## 📫 Contact
-
-  <a href="mailto:library_mini@outlook.com">
-    <img src="https://img.shields.io/badge/Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>
-
   <details>
     <summary><strong>✉️ Click to view Email</strong></summary>
     <br/>
