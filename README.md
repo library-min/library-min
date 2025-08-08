@@ -29,7 +29,7 @@
       </td>
       <td align="center" style="border: none; width: 50%;">
         <h3>🔗 성장 기록</h3>
-        <p><a href="https://www.notion.so/Library_Min-s-Library-1d4ebef145e3808cb050f5a72dbafbe1"><strong>My Notion Blog</strong></a></p>
+        <p><a href="https://www.notion.so/Library_Min-s-Library-1d4ebef145e3808cb050f5a72dbafbe1"><strong>성장 과정 보러가기</strong></a></p>
       </td>
     </tr>
   </tbody>
