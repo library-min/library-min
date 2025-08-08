@@ -1,5 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Hello! Developer&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+  <!-- 움직이는 헤더 배너 -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Hello,%20Developer!&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+  
+  <!-- 이름 강조 -->
+  <h1 style="margin-top: -20px; font-size: 30px;">🌱 서재민 🌱</h1>
+  <p>끊임없이 성장하는 개발자</p>
 </div>
 
 <br/>
@@ -39,7 +44,9 @@
       <hr/>
       <h2 align="center">📫 Contact</h2>
       <div align="center">
-        <a href="mailto:library_mini@outlook.com"><img src="https://img.shields.io/badge/Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+        <a href="mailto:library_mini@outlook.com">
+          <img src="https://img.shields.io/badge/Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+        </a>
         <details>
           <summary><strong>✉️ Click to view E-mail</strong></summary>
           <br/>
