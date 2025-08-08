@@ -1,9 +1,3 @@
-알겠습니다! 피드백 반영해서 프로젝트와 그래프 부분을 빼고, 마지막에 라인을 추가해서 더 간결하게 다듬어 드릴게요.
-
-핵심 정보에 더 집중해서 재민님의 프로필이 한눈에 들어올 수 있도록 수정했습니다.
-
-<br/>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=03C75A&height=180&text=Welcome!&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlign=50&fontAlignY=35"/>
 </div>
