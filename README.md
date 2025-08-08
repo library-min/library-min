@@ -13,9 +13,8 @@
 
 - 🌟 **도전하는 개발자**: 다양한 기술을 배우며 꾸준히 성장하고 있습니다.
 - 🔭 **목표**: 풀스택 개발자와 클라우드 엔지니어가 되는 것
-- 💬 **협업과 소통**을 중요하게 생각합니다.
 - ✍️ **문서화와 실습**을 통해 지식을 확장하고 있습니다.
-- 🌱 **Notion에 기록하며 학습**하고 있어요!
+- 💬 **협업과 소통**을 중요하게 생각합니다.
 
 ### 🚀 목표 (Goal)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=36BCF7&center=true&vCenter=true&width=280&height=40&lines=Full+Stack+Developer;Cloud+Engineer)](https://git.io/typing-svg)
@@ -53,7 +52,7 @@
 ## 📜 Certifications
 
 - 🏅 **NCA** - Naver Cloud Associate  
-- 🏅 **네트워크 관리사 2급** - 한국정보통신자격협회
+- 🏅 **네트워크 관리사 2급**
 
 ---
 
@@ -78,8 +77,3 @@
 </p>
 
 ---
-
-## ✍️ Recent Posts
-
-> 아직 작성된 포스트가 없습니다. GitHub Actions를 설정해보세요!
-
