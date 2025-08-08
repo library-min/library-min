@@ -22,7 +22,7 @@
 🚀 <strong>목표</strong>: 풀스택 개발자 & 클라우드 엔지니어<br/>
 💬 <strong>가치</strong>: 협업과 커뮤니케이션을 통한 시너지 창출<br/>
 🧠 <strong>학습</strong>: 매일 기록하고, 사이드 프로젝트로 직접 부딪히며 학습<br/>
-📝 <strong>블로그</strong>: <a href="https://www.notion.so/Library_Min-s-Library-1d4ebef145e3808cb050f5a72dbafbe1" target="_blank"><strong>Notion에서 성장 기록 보기</strong></a>
+📝 <strong>블로그</strong>: <a href="https://www.notion.so/Library_Min-s-Library-1d4ebef145e3808cb050f5a72dbafbe1" target="_blank"><strong>성장 기록 보기</strong></a>
 </p>
 </div>
 
@@ -91,6 +91,7 @@
 
 <p align="center">
 <a href="mailto:library_mini@outlook.com"><img src="https://img.shields.io/badge/Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a></a>
 <a href="https://www.notion.so/Library_Min-s-Library-1d4ebef145e3808cb050f5a72dbafbe1"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 </p>
 
