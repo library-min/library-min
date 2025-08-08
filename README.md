@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h2>🌱 서재민 | Jaemin Seo 🌱</h2>
+  <h2>🌱 서재민 🌱</h2>
   <p><strong>성장하는 과정 자체를 즐기는 개발자, 서재민입니다.</strong></br>더 나은 사용자 경험과 안정적인 서비스에 기여하고 싶습니다.</p>
 </div>
 
