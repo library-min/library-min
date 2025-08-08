@@ -1,3 +1,9 @@
+알겠습니다! 피드백 반영해서 프로젝트와 그래프 부분을 빼고, 마지막에 라인을 추가해서 더 간결하게 다듬어 드릴게요.
+
+핵심 정보에 더 집중해서 재민님의 프로필이 한눈에 들어올 수 있도록 수정했습니다.
+
+<br/>
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=03C75A&height=180&text=Welcome!&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlign=50&fontAlignY=35"/>
 </div>
@@ -69,33 +75,14 @@
 </tbody>
 </table>
 
-<h2 align="center">🚀 Projects</h2>
-
-<details>
-<summary><strong>프로젝트 1: 나만의 포트폴리오 사이트 (예시)</strong></summary>
-<div markdown="1">
-
-React와 Naver Cloud를 활용하여 제작한 개인 포트폴리오 웹사이트입니다.
-
-주요 기능: 자기소개, 기술 스택, 프로젝트 아카이빙, 연락처
-
-사용 기술: React, CSS3, Naver Cloud (Server, DB)
-
-GitHub: Link
-
-배포 링크: Link
-
-</div>
-</details>
-
 <h2 align="center">📜 Certifications</h2>
 
 <div align="center">
 <p>
-<strong>네트워크 관리사 2급</strong> (202X.XX)
+<strong>네트워크 관리사 2급</strong>
 </p>
 <p>
-<strong>Naver Cloud Platform Certified Associate</strong> (202X.XX)
+<strong>Naver Cloud Platform Certified Associate</strong>
 </p>
 </div>
 
@@ -103,8 +90,7 @@ GitHub: Link
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=library-min&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" /><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=library-min&show_icons=true&theme=tokyonight&hide_border=true" /><br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=library-min&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=library-min&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <h2 align="center">📬 Contact & Links</h2>
