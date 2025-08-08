@@ -66,7 +66,7 @@
 
   ## 📫 Contact
   <details>
-    <summary><strong>✉️ Click to view Email</strong></summary>
+    <summary><strong>✉️ Click to view Email ✉️</strong></summary>
     <br/>
     ⇨ library_mini@outlook.com ⇦
   </details>
