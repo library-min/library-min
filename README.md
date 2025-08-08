@@ -1,7 +1,7 @@
 <div align="center">
-  <!-- 파도 + 블랙/화이트 배너 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=black&color2=white&height=200&section=header&text=Hello,%20Developer!&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
-</div>
+  <!-- 파도형 + 블랙/화이트 반반 느낌 배너 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&color2=ffffff&height=200&section=header&text=Hello,%20Developer!&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+  
   <!-- 이름 강조 -->
   <h1 style="margin-top: -20px; font-size: 30px;">🌱 서재민 🌱</h1>
   <p>끊임없이 성장하는 개발자</p>
