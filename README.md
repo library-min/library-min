@@ -51,9 +51,9 @@
           <summary><strong>✉️ Click to view E-mail</strong></summary>
           <br/>
           <p></p>
-          ```
+          ⇨
           library_mini@outlook.com
-          ```
+          ⇦
         </details>
       </div>
     </td>
