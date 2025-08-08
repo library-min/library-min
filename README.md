@@ -1,57 +1,71 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=1BC5F1&height=150&section=header&text=JaeMin%20Seo&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=150&section=header&text=Hello,%20Developer!&fontSize=40&fontColor=ffffff&animation=twinkling"/>
 </div>
 
-### 👋 안녕하세요! 성장을 즐기는 개발자, 서재민입니다.
-
-사용자에게 좋은 경험을 주는 서비스를 만들고 싶습니다.  
-클라우드 기술을 활용하여 안정적이고 확장성 있는 인프라를 구축하는 데 큰 흥미를 느끼고 있습니다.
-
-<br/>
-
-### 👨‍💻 About Me
-- **Goal** : Full Stack Developer & Cloud Engineer
-- **Value** : 함께 성장하는 협업과 투명한 커뮤니케이션
-- **How** : 매일의 학습을 기록하고, 작은 성공을 쌓아나갑니다.
-- **Blog** : [Notion에서 성장 기록 보기](https://www.notion.so/Library_Min-s-Library-1d4ebef145e3808cb050f5a72dbafbe1)
-
-<br/>
-
-### 🛠️ Techs
 <div align="center">
-  <p><strong>Frontend</strong></p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <p><strong>Backend & Database</strong></p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <p><strong>Cloud & DevOps</strong></p>
-  <img src="https://img.shields.io/badge/Naver Cloud-03C75A?style=flat-square&logo=naver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <h2>🌱 서재민 | Jaemin Seo 🌱</h2>
+  <p><strong>성장하는 과정 자체를 즐기는 풀스택 & 클라우드 엔지니어 지망생입니다.</strong></p>
 </div>
 
-<br/>
+---
 
-### 📜 Certifications
-- Network Manager Lv.2
-- Naver Cloud Platform Certified Associate (NCA)
+<table align="center" border="0" cellpadding="10" cellspacing="0" style="border: none; width: 100%;">
+  <tbody>
+    <tr>
+      <td align="center" style="border: none; width: 50%;">
+        <h3>🚀 목표</h3>
+        <p>풀스택 개발자 &<br/>클라우드 엔지니어</p>
+      </td>
+      <td align="center" style="border: none; width: 50%;">
+        <h3>💬 가치</h3>
+        <p>함께 배우고 나누는<br/>소통과 협업</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="border: none; width: 50%;">
+        <h3>🧠 학습법</h3>
+        <p>매일 기록하고<br/>직접 부딪히며 배우기</p>
+      </td>
+      <td align="center" style="border: none; width: 50%;">
+        <h3>🔗 성장 기록</h3>
+        <p><a href="https://www.notion.so/Library_Min-s-Library-1d4ebef145e3808cb050f5a72dbafbe1"><strong>My Notion Blog</strong></a></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<br/>
+---
 
-### 📊 Stats
+### 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=library-min&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=6" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=library-min&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Naver Cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-<br/>
+---
+
+### 📊 GitHub Stats & Certs
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=library-min&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Network%20Manager-blue?style=flat" alt="네트워크 관리사 2급" />
+  <img src="https://img.shields.io/badge/NCP%20Associate-03C75A?style=flat" alt="Naver Cloud Platform Certified Associate" />
+</p>
+
+---
 
 ### 📫 Contact
+
 <p align="center">
-  <a href="mailto:library_mini@outlook.com"><img src="https://img.shields.io/badge/Mail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://www.notion.so/Library_Min-s-Library-1d4ebef145e3808cb050f5a72dbafbe1"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"></a>
+  <a href="mailto:library_mini@outlook.com"><img src="https://img.shields.io/badge/Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://www.notion.so/Library_Min-s-Library-1d4ebef145e3808cb050f5a72dbafbe1"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 </p>
 
 ---
