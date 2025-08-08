@@ -50,7 +50,7 @@
         <details>
           <summary><strong>✉️ Click to view E-mail</strong></summary>
           <br/>
-          <p>아래 박스 우측의 버튼을 눌러 이메일을 복사하세요!</p>
+          <p></p>
           ```
           library_mini@outlook.com
           ```
