@@ -15,7 +15,7 @@
     <tr>
       <td align="center" style="border: none; width: 50%;">
         <h3>🚀 목표</h3>
-        <p>Full Stack Developer &<br/>Cloud Engineer</p>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=36BCF7&center=true&vCenter=true&width=280&height=40&lines=Full+Stack+Developer;Cloud+Engineer" alt="Typing SVG" />
       </td>
       <td align="center" style="border: none; width: 50%;">
         <h3>💬 가치</h3>
