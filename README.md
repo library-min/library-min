@@ -60,6 +60,14 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=library-min&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)  
+<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=library-min&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
 ## 📫 Contact
 
 <details>
@@ -67,11 +75,3 @@
   <br/>
   ⇨ library_mini@outlook.com ⇦
 </details>
-
----
-
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=library-min&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)  
-<br/>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=library-min&show_icons=true&theme=tokyonight&hide_border=true)
