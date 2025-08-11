@@ -1,7 +1,7 @@
 <!-- 상단 배너 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=150&section=header&text=Hello,%20Developer!&fontSize=40&fontColor=ffffff&animation=twinkling"/>
 
-# 🌱 서재민
+# 🌱 서재민 🌱
 
 끊임없이 성장하는 개발자입니다.
 
