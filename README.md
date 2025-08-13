@@ -99,6 +99,7 @@ NCA (Naver Cloud Platform Certified Associate)
 </div>
 
 < 📫 Contact >
+<hr>
 <details>
   <summary><strong>✉️ Click to view Email ✉️</strong></summary>
   <br/>
