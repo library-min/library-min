@@ -18,6 +18,10 @@
 
 <hr>
 
+### 🛠️ Tech Stack
+
+---
+
 <table>
 <tr>
 <td valign="top">
@@ -54,6 +58,7 @@
 </tr>
 </table>
 
+---
 <hr>
 
 ## 📊 Skill Level
