@@ -31,12 +31,12 @@
 ### Frontend / Backend
 | Skill       | HTML / CSS | Java Script | React | Node.js | Express |
 |-------------|----------|------------|-------|---------|---------|
-| Level       | 🟩🟩🟩 | 🟩🟩🟩 | 🟩🟩🟩 | 🟩🟩🟩 | 🟩🟩🟩 |
+| Level       | 🟩⬜⬜ | 🟩⬜⬜ | ⬜⬜⬜ | ⬜⬜⬜ | ⬜⬜⬜ |
 
 ### Database / Infra / Tools
 | Skill       | MySQL | Docker | Naver Cloud | Git | Postman |
 |-------------|-------|--------|-------------|-----|---------|
-| Level       | 🟩🟩🟩 | 🟩🟩🟩 | 🟩🟩⬜ | 🟩🟩🟩 | 🟩🟩🟩 |
+| Level       | ⬜⬜⬜ | ⬜⬜⬜ | 🟩⬜⬜ | ⬜⬜⬜ | ⬜⬜⬜ |
 
 🟩 = 학습 완료 &nbsp;&nbsp; ⬜ = 학습 중
 
@@ -46,13 +46,15 @@
 < 📊 GitHub Stats >
 <P>
 <img src="https://github-readme-stats.vercel.app/api?username=library-min&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=library-min&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+</P>
+
 <hr>
+
 < 🌿 My Contribution Activity >
 <P>
 <img src="https://ghchart.rshah.org/2962FF/library-min" alt="Contribution Graph" />
 </p>
+
 <hr>
 < 📜 Certifications >
 <div>
