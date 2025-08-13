@@ -65,7 +65,7 @@
 
 ---
 
-📊 Skill Level
+<h2>📊 Skill Level</h2>
 <hr>
 
 ### Frontend / Backend
