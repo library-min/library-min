@@ -18,65 +18,53 @@
 
 <hr>
 
-< 🛠️ Tech Stack >
-<table>
-<tr>
-<td align="center" width="150"><b>Frontend</b></td>
-<td>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</td>
-</tr>
+## 🛠️ Tech Stack
 
-<tr>
-<td align="center"><b>Backend</b></td>
-<td>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=swagger&logoColor=white"/>
-</td>
-</tr>
+### 💻 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<tr>
-<td align="center"><b>DevOps / Infra</b></td>
-<td>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Naver_Cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</td>
-</tr>
+### 🖥 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=swagger&logoColor=white)
 
-<tr>
-<td align="center"><b>Tools</b></td>
-<td>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</td>
-</tr>
-</table>
+### ☁️ DevOps / Infra
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Naver Cloud](https://img.shields.io/badge/Naver_Cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<!-- Progress Bars -->
-<h4>📈 Skill Progress</h4>
-<p align="left">
-  <b>Frontend</b><br/>
-  <img src="https://progress-bar.dev/80/?title=HTML/CSS&width=300&color=ff5733" /><br/>
-  <img src="https://progress-bar.dev/75/?title=JavaScript&width=300&color=f7df1e" /><br/>
-  <img src="https://progress-bar.dev/65/?title=React&width=300&color=61dafb" />
-</p>
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<p align="left">
-  <b>Backend</b><br/>
-  <img src="https://progress-bar.dev/70/?title=Node.js&width=300&color=339933" /><br/>
-  <img src="https://progress-bar.dev/60/?title=Express&width=300&color=000000" /><br/>
-  <img src="https://progress-bar.dev/65/?title=MySQL&width=300&color=4479a1" />
-</p>
+---
+
+## 📊 Skill Level
+
+| 분야        | 기술                                   | 숙련도 |
+|-------------|---------------------------------------|--------|
+| Frontend    | HTML/CSS                              | 🟩🟩🟩🟩🟩  |
+|             | JavaScript                            | 🟩🟩🟩🟩⬜  |
+|             | React                                 | 🟩🟩🟩⬜⬜  |
+| Backend     | Node.js                               | 🟩🟩🟩🟩⬜  |
+|             | Express                               | 🟩🟩🟩⬜⬜  |
+|             | MySQL                                 | 🟩🟩🟩⬜⬜  |
+| DevOps/Infra| Docker                                | 🟩🟩🟩⬜⬜  |
+|             | Naver Cloud                           | 🟩🟩⬜⬜⬜  |
+| Tools       | Git                                   | 🟩🟩🟩🟩⬜  |
+|             | Postman                               | 🟩🟩🟩⬜⬜  |
+
+🟩 = 숙련, ⬜ = 학습 중
+
+<hr>
 
 < 📊 GitHub Stats >
 <P>
