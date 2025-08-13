@@ -73,7 +73,7 @@
 | Level | 🟩⬜⬜ | 🟩⬜⬜ | ⬜⬜⬜ | ⬜⬜⬜ | ⬜⬜⬜ |
 
 ### Database / Infra / Tools
-| Skill       | MySQL | Docker | Naver Cloud | Git | Post man |
+| Skill       | MySQL | Docker | Naver Cloud | Git | Postman |
 |-------------|-------|--------|-------------|-----|---------|
 | Level       | ⬜⬜⬜ | ⬜⬜⬜ | 🟩⬜⬜ | ⬜⬜⬜ | ⬜⬜⬜ |
 
