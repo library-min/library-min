@@ -16,7 +16,7 @@
   사용자 중심의 사고와 안정적인 기술 구현을 통해 가치있는 서비스를 만드는 것을 목표로 합니다.
 </p>
 <hr>
-## 🛠️ Tech Stack## 📊 Skill Level
+🛠️ Tech Stack
 <hr>
 
 <table>
