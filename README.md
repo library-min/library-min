@@ -71,7 +71,7 @@
 ## 📊 Skill Level
 
 ### Frontend / Backend
-| Skill       | HTML / CSS | Java Script | React | Node.js | Express |
+| Skill       | HTML CSS | Java Script | React | Node.js | Express |
 |-------------|----------|------------|-------|---------|---------|
 | Level       | 🟩⬜⬜ | 🟩⬜⬜ | ⬜⬜⬜ | ⬜⬜⬜ | ⬜⬜⬜ |
 
