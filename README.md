@@ -83,14 +83,14 @@
 
 <hr>
 
-< 📊 GitHub Stats >
+<h2>< 📊 GitHub Stats ></h2>
 <hr>
 <P>
 <img src="https://github-readme-stats.vercel.app/api?username=library-min&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </P>
 
 <hr>
-< 📜 Certifications >
+<h2>< 📜 Certifications ></h2>
 <hr>
   <div>
 
@@ -100,7 +100,7 @@
 <hr>
 </div>
 
-< 📫 Contact >
+<h2>< 📫 Contact ></h2>
 <hr>
 <details>
   <summary><strong>✉️ Click to view Email ✉️</strong></summary>
