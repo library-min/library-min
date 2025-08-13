@@ -9,6 +9,8 @@
 </pre>
 </div>
 
+<hr>
+
 <p>
   <strong>끊임없이 성장하는 개발자 서재민입니다.</strong>
 </p>
