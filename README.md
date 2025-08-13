@@ -82,13 +82,15 @@
 <hr>
 
 < 📊 GitHub Stats >
+<hr>
 <P>
 <img src="https://github-readme-stats.vercel.app/api?username=library-min&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </P>
 
 <hr>
 < 📜 Certifications >
-<div>
+<hr>
+  <div>
 
 NCA (Naver Cloud Platform Certified Associate)
 
