@@ -64,7 +64,7 @@
 
 ---
 
-## 📊 Skill Level
+📊 Skill Level
 <hr>
 ### Frontend / Backend
 | Skill       | HTML CSS | Java Script | React | Node.js | Express |
