@@ -24,7 +24,8 @@
 
 <table>
 <tr>
-<td valign="top">
+  <!-- LEFT COLUMN -->
+  <td valign="top" style="border-right:1px solid #ccc; padding-right:15px;">
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -38,9 +39,10 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-</td>
-<td valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-<td valign="top">
+  </td>
+
+  <!-- RIGHT COLUMN -->
+  <td valign="top" style="padding-left:15px;">
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -54,9 +56,10 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-</td>
+  </td>
 </tr>
 </table>
+
 
 ---
 <hr>
