@@ -9,10 +9,10 @@
 </pre>
 </div>
 
-<p align="center">
+<p>
   <strong>끊임없이 성장하며 아이디어를 현실로 만드는 개발자, 서재민입니다.</strong>
 </p>
-<p align="center">
+<p>
   사용자 중심의 사고와 안정적인 기술 구현을 통해 가치있는 서비스를 만드는 것을 목표로 합니다.
 </p>
 
@@ -20,34 +20,49 @@
 
 ### **< 🛠️ Tech Stack >**
 
-<div align="center">
-<table width="80%">
+<table>
   <tr>
-    <td width="20%" align="center"><strong>Frontend</strong></td>
-    <td><code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>React</code></td>
+    <td align="center" width="150"><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    </td>
   </tr>
   <tr>
-    <td align="center"><strong>Backend</strong></td>
-    <td><code>Node.js</code> <code>Express</code> <code>MySQL</code></td>
+    <td align="center"><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    </td>
   </tr>
   <tr>
-    <td align="center"><strong>DevOps/Infra</strong></td>
-    <td><code>Docker</code> <code>Naver Cloud</code> <code>GitHub Actions</code></td>
+    <td align="center"><b>DevOps/Infra</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Naver_Cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+    </td>
   </tr>
   <tr>
-    <td align="center"><strong>Tools</strong></td>
-    <td><code>Git</code> <code>Notion</code> <code>VSCode</code></td>
+    <td align="center"><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+    </td>
   </tr>
 </table>
-</div>
 
 <hr>
 
 ### **< 📊 GitHub Stats >**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=library-min&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=library-min&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=library-min&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 ---
@@ -60,7 +75,7 @@
 ---
 
 ### **< 📜 Certifications >**
-<div align="center">
+<div>
 
 - **NCA** (Naver Cloud Platform Certified Associate)
 - **네트워크 관리사 2급**
