@@ -38,8 +38,7 @@
         <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=swagger&logoColor=white" />
       </td>
     </tr>
-
-    <tr>
+    
   <td colspan="2" align="center">
     <hr/>
   </td>
