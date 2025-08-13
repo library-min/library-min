@@ -65,11 +65,11 @@
 ---
 
 📊 Skill Level
-<hr>
+
 ### Frontend / Backend
-| Skill       | HTML CSS | Java Script | React | Node.js | Express |
-|-------------|----------|------------|-------|---------|---------|
-| Level       | 🟩⬜⬜ | 🟩⬜⬜ | ⬜⬜⬜ | ⬜⬜⬜ | ⬜⬜⬜ |
+| Skill | HTML CSS | JavaScript | React | Node.js | Express |
+|---|---|---|---|---|---|
+| Level | 🟩⬜⬜ | 🟩⬜⬜ | ⬜⬜⬜ | ⬜⬜⬜ | ⬜⬜⬜ |
 
 ### Database / Infra / Tools
 | Skill       | MySQL | Docker | Naver Cloud | Git | Post man |
