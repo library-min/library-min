@@ -91,13 +91,6 @@
 </P>
 
 <hr>
-
-< 🌿 My Contribution Activity >
-<P>
-<img src="https://ghchart.rshah.org/2962FF/library-min" alt="Contribution Graph" />
-</p>
-
-<hr>
 < 📜 Certifications >
 <div>
 
