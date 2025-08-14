@@ -101,6 +101,7 @@
 <hr>
 <h2>< 📜 Scheduled Certifications ></h2>
 <hr>
+
 🏅 리눅스마스터 2급 실기
 
 🏅 정보처리기사 실기
