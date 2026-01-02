@@ -36,7 +36,7 @@
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/workflow.png" width="60"/><br>
@@ -263,7 +263,7 @@
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/color/96/amazon-web-services.png" width="60"/><br>
@@ -292,12 +292,12 @@
 
 ## 🎯 Focus Direction
 
-<table>
+<table width="100%">
 <tr>
 <th width="33%" align="center">
 <img src="https://img.icons8.com/fluency/48/code.png" width="30"/> Now Learning
 </th>
-<th width="33%" align="center">
+<th width="34%" align="center">
 <img src="https://img.icons8.com/fluency/48/star.png" width="30"/> Interest
 </th>
 <th width="33%" align="center">
