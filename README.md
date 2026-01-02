@@ -95,9 +95,9 @@
 
 ## 🎨 Frontend Projects
 
-<table width="100%" cellpadding="15">
+<table width="100%" cellpadding="20" cellspacing="0">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 20px;">
 
 <div align="center">
 
@@ -116,6 +116,7 @@
 - 성능 최적화를 통한 사용자 경험 개선
 - React Router를 활용한 SPA 네비게이션 구현
 - Redux/Context API를 통한 전역 상태 관리
+- Code Splitting과 Lazy Loading으로 초기 로딩 최적화
 
 <br>
 
@@ -127,7 +128,7 @@
 <br>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 20px;">
 
 <div align="center">
 
@@ -146,6 +147,7 @@
 - 반응형 디자인으로 다양한 디바이스 지원
 - AsyncStorage를 활용한 로컬 데이터 관리
 - Push Notification 및 위치 기반 서비스 구현
+- 터치 제스처 및 애니메이션으로 자연스러운 UX 제공
 
 <br>
 
@@ -168,9 +170,9 @@
 
 ## ⚙️ Backend Projects
 
-<table width="100%" cellpadding="15">
+<table width="100%" cellpadding="20" cellspacing="0">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 20px;">
 
 <div align="center">
 
@@ -189,6 +191,7 @@
 - JWT 인증 및 보안 기능 구현
 - Spring Security를 활용한 권한 관리
 - Swagger를 통한 API 문서화 자동화
+- 트랜잭션 관리 및 데이터 무결성 보장
 
 <br>
 
@@ -200,7 +203,7 @@
 <br>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 20px;">
 
 <div align="center">
 
@@ -219,6 +222,7 @@
 - 다중 클라이언트 동시 접속 처리
 - Socket.io를 활용한 실시간 채팅 기능
 - Redis를 통한 세션 관리 및 캐싱
+- Room 기반 그룹 통신 및 브로드캐스팅 구현
 
 <br>
 
@@ -250,14 +254,13 @@
 <b>Cloud Platform</b><br>
 <sub>AWS / Naver Cloud 기반<br>서버 구성 및 운영</sub>
 </td>
-<td align="center" width="33%">
+<td align="center" width="34%">
 <img src="https://img.icons8.com/color/96/docker.png" width="60"/><br>
 <b>Containerization</b><br>
 <sub>Docker로 개발·배포<br>환경 분리 및 관리</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/infinity-loop.png" width="60"/><br>
-<b>CI/CD</b><br>
+<b>🔄 CI/CD</b><br><br>
 <sub>지속적 통합/배포<br>파이프라인 구축</sub>
 </td>
 </tr>
