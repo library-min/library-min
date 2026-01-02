@@ -95,7 +95,7 @@
 
 ## 🎨 Frontend Projects
 
-<table width="100%">
+<table width="100%" cellpadding="15">
 <tr>
 <td width="50%" valign="top">
 
@@ -114,6 +114,8 @@
 - Tailwind CSS를 활용한 반응형 레이아웃 구현
 - RESTful API 연동 및 효율적인 상태 관리
 - 성능 최적화를 통한 사용자 경험 개선
+- React Router를 활용한 SPA 네비게이션 구현
+- Redux/Context API를 통한 전역 상태 관리
 
 <br>
 
@@ -142,6 +144,8 @@
 - 사용자 경험 최적화 및 직관적인 UI/UX 설계
 - 네이티브 모듈 연동을 통한 성능 최적화
 - 반응형 디자인으로 다양한 디바이스 지원
+- AsyncStorage를 활용한 로컬 데이터 관리
+- Push Notification 및 위치 기반 서비스 구현
 
 <br>
 
@@ -164,7 +168,7 @@
 
 ## ⚙️ Backend Projects
 
-<table width="100%">
+<table width="100%" cellpadding="15">
 <tr>
 <td width="50%" valign="top">
 
@@ -183,6 +187,8 @@
 - MySQL + MyBatis로 안정적인 데이터 관리
 - 계층형 구조 분리와 체계적인 예외 처리
 - JWT 인증 및 보안 기능 구현
+- Spring Security를 활용한 권한 관리
+- Swagger를 통한 API 문서화 자동화
 
 <br>
 
@@ -211,6 +217,8 @@
 - 양방향 실시간 데이터 전송 시스템 구현
 - 이벤트 기반 아키텍처로 서버 상태 관리
 - 다중 클라이언트 동시 접속 처리
+- Socket.io를 활용한 실시간 채팅 기능
+- Redis를 통한 세션 관리 및 캐싱
 
 <br>
 
