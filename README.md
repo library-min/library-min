@@ -40,7 +40,7 @@
 <br/>
 
 <a href="mailto:your.email@gmail.com">
-  <img src="https://img.shields.io/badge/CONTACT%20ME-8B5CF6?style=for-the-badge&logo=minutemailer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📬 Email-C4B5FD?style=flat-square"/>
 </a>
 
 <br/>
