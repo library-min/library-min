@@ -1,14 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:C4B5FD&height=180&section=header&text=Jaemin%20Seo&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:C4B5FD&height=150&section=header" width="100%"/>
 
 <div align="center">
 
-<br/>
+## 안녕하세요! 👋 서재민입니다
 
-```
-🚀 사용자 경험을 고민하고, 깔끔한 코드를 작성하는 것을 좋아합니다
-```
+**풀스택 개발자를 꿈꾸며 매일 성장하고 있습니다**
 
-<br/>
+사용자 경험을 고민하고, 깔끔한 코드를 작성하는 것을 좋아합니다
+
+<br/><br/>
 
 ### 💻 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=light" />
