@@ -1,361 +1,321 @@
-<!-- Header with gradient background -->
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=SEO%20JAE%20MIN&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Full%20Stack%20Developer&descAlignY=55&descAlign=50)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=SEO%20JAE%20MIN&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35)
 
 <br>
 
-### 💭 *사용자 경험 · 서버 안정성 · 구조 설계를 동시에 고민합니다*
+# 💼 Junior Full Stack Developer
+
+### *사용자 경험 · 서버 안정성 · 구조 설계를 동시에 고민하는 개발자*
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Clean+Code+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Problem+Solver+%7C+Clean+Code+Enthusiast;Full+Stack+Developer+%7C+System+Thinker)](https://git.io/typing-svg)
 
 </div>
 
+<br><br>
+
+---
+
 <br>
 
-<!-- Profile Section with Cards -->
-<div align="center">
+## 👨‍💻 Developer Profile
 
-## 💫 Developer DNA
-
-</div>
-
-<table align="center">
+<table width="100%">
 <tr>
-<td width="33%" align="center">
-
-```mermaid
-graph TD
-    A[🎨 Frontend] --> D[Full Stack]
-    B[⚙️ Backend] --> D
-    C[🗄️ Database] --> D
-    D --> E[🚀 Deploy]
-```
-
-**Data Flow Master**
-
-전체 시스템을 이해하는  
-풀스택 개발자
-
+<td width="33%" align="center" valign="top">
+<br>
+<img src="https://img.icons8.com/fluency/96/workflow.png" width="80"/>
+<br><br>
+<h3>Full Stack Flow</h3>
+<p>Frontend → Backend<br>→ Database → Deploy<br><br>전체 시스템을 이해하는<br>풀스택 개발자</p>
+<br>
 </td>
-<td width="33%" align="center">
-
-```mermaid
-pie title Code Priority
-    "Maintainability" : 45
-    "Readability" : 35
-    "Performance" : 20
-```
-
-**Structure First**
-
-유지보수 가능한 구조가  
-최우선 목표
-
+<td width="34%" align="center" valign="top">
+<br>
+<h2>🎯</h2>
+<br>
+<h3>Problem Solving</h3>
+<p><br>기술 스택보다<br>문제 해결 과정을 중시<br><br>근본적인 원인을 찾아<br>해결하는 개발자</p>
+<br>
 </td>
-<td width="33%" align="center">
-
-```mermaid
-graph LR
-    A[Why?] --> B[How?]
-    B --> C[What?]
-    C --> D[Done!]
-```
-
-**Explainable Code**
-
-구현 이유를 설명할 수  
-있는 주니어
-
+<td width="33%" align="center" valign="top">
+<br>
+<img src="https://img.icons8.com/fluency/96/api.png" width="80"/>
+<br><br>
+<h3>Collaboration First</h3>
+<p>협업을 고려한<br>API 설계와<br>컴포넌트 분리<br><br>팀과 함께 성장하는<br>개발자</p>
+<br>
 </td>
 </tr>
 </table>
 
 <br>
+
+---
+
 <br>
 
-<!-- Tech Stack Section -->
+## 🛠 Tech Stack
+
 <div align="center">
 
-## 🛠️ Tech Arsenal
-
-### Frontend Weapons
-
+### 💻 Frontend Development
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=light)](https://skillicons.dev)
 
-### Backend Fortress
-
+### ⚙️ Backend Development
 [![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=light)](https://skillicons.dev)
 
-### Data & Cloud Kingdom
-
+### 🗄️ Database & Cloud
 [![My Skills](https://skillicons.dev/icons?i=mysql,aws,docker&theme=light)](https://skillicons.dev)
 
-### Developer Toolbox
-
+### 🔧 Tools & Environment
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma&theme=light)](https://skillicons.dev)
 
-### 📚 Currently Exploring
-
+### 📚 Currently Learning
 [![Learning](https://skillicons.dev/icons?i=kotlin,python,mongodb&theme=light)](https://skillicons.dev)
 
 </div>
 
 <br>
-<br>
 
-<!-- Projects Section -->
-<div align="center">
-
-## 🎯 Project Showcase
-
-</div>
-
-### 🎨 Frontend Adventures
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🌐 User-Centric Web Platform
-> *React + TypeScript SPA Architecture*
-
-**🎯 Key Features**
-- 🧩 Component-based UI for maximum reusability
-- 📱 Responsive layout with Tailwind CSS
-- 🔄 Efficient state management & API integration
-- ⚡ Performance optimization for better UX
-- 🗺️ SPA navigation with React Router
-- 🌐 Global state with Redux/Context API
-- 📦 Code splitting & lazy loading
-
-**Tech Stack**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-</td>
-<td width="50%">
-
-#### 📱 Cross-Platform Mobile App
-> *React Native Universal Solution*
-
-**🎯 Key Features**
-- 🍎 iOS & Android simultaneous support
-- 🎨 Optimized UX with intuitive UI/UX
-- ⚡ Native module integration
-- 📐 Responsive design for all devices
-- 💾 Local data with AsyncStorage
-- 🔔 Push notifications & location services
-- ✨ Natural UX with gestures & animations
-
-**Tech Stack**  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Mobile](https://img.shields.io/badge/Mobile-4285F4?style=flat-square&logo=android&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-### ⚙️ Backend Engineering
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🔧 Enterprise REST API Server
-> *Spring Boot Microservice Architecture*
-
-**🎯 Key Features**
-- 🏗️ RESTful API design & implementation
-- 🗄️ Stable data management with MySQL & MyBatis
-- 🎯 Layered architecture with exception handling
-- 🔐 JWT authentication & security
-- 🛡️ Authorization with Spring Security
-- 📝 Automated API docs with Swagger
-- 💼 Transaction management & data integrity
-
-**Tech Stack**  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-
-</td>
-<td width="50%">
-
-#### 💬 Real-time Communication Service
-> *WebSocket Bidirectional System*
-
-**🎯 Key Features**
-- 🚀 Lightweight high-performance server with Node.js
-- 🔄 Real-time bidirectional data transmission
-- 🎭 Event-driven architecture
-- 👥 Multi-client concurrent handling
-- 💬 Real-time chat with Socket.io
-- ⚡ Session & caching with Redis
-- 🏠 Room-based group communication
-
-**Tech Stack**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
-
-</td>
-</tr>
-</table>
+---
 
 <br>
 
-<!-- Infrastructure Section -->
-<div align="center">
-
-## ☁️ Infrastructure & DevOps
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/amazon-web-services.png" width="60"/><br>
-<b>☁️ Cloud Platform</b><br>
-<sub>AWS / Naver Cloud<br>서버 구성 및 운영</sub>
-</td>
-<td align="center" width="34%">
-<img src="https://img.icons8.com/color/96/docker.png" width="60"/><br>
-<b>📦 Containerization</b><br>
-<sub>Docker 기반<br>환경 분리 및 관리</sub>
-</td>
-<td align="center" width="33%">
-<b>🔄 CI/CD</b><br><br>
-<sub>지속적 통합/배포<br>파이프라인 구축</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-<br>
-
-<!-- Roadmap Section -->
-<div align="center">
-
-## 🗺️ Development Roadmap
-
-</div>
-
-```mermaid
-gantt
-    title My Learning Journey
-    dateFormat YYYY-MM
-    section Now Learning
-    Full Stack Development     :2025-01, 2025-06
-    REST API Design           :2025-01, 2025-04
-    Code Architecture         :2025-01, 2025-05
-    section Interests
-    Cloud Architecture        :2025-03, 2025-08
-    TypeScript Advanced       :2025-02, 2025-06
-    React Native Deep Dive    :2025-04, 2025-09
-    section Future Goals
-    Microservices            :2025-07, 2025-12
-    System Design            :2025-06, 2026-01
-    DevOps                   :2025-08, 2026-02
-```
-
-<br>
-
-<details>
-<summary><b>🎯 Click to see detailed focus areas</b></summary>
-
-<br>
+## 🎨 Frontend Projects
 
 <table width="100%">
 <tr>
-<th width="33%" align="center">
-<img src="https://img.icons8.com/fluency/48/code.png" width="30"/> Now Learning
-</th>
-<th width="34%" align="center">
-<img src="https://img.icons8.com/fluency/48/star.png" width="30"/> Interest
-</th>
-<th width="33%" align="center">
-<img src="https://img.icons8.com/fluency/48/rocket.png" width="30"/> Future Goals
-</th>
-</tr>
-<tr>
-<td valign="top">
-
-- 🎨 **Full Stack 서비스 구현**
-  - 프론트엔드부터 백엔드까지 통합 개발
-  
-- 🔌 **REST API 설계**
-  - 확장 가능한 API 아키텍처 구축
-  
-- 🏗️ **구조 개선**
-  - 클린 코드와 디자인 패턴 적용
-
+<td width="50%" align="center" valign="top">
+<br>
+<h3>📱 사용자 중심 웹 서비스</h3>
+<p><b>React + TypeScript SPA</b></p>
+<br>
+<p align="left">
+<b>🎯 주요 기능</b><br>
+• 컴포넌트 단위 UI 설계<br>
+• 반응형 레이아웃 구현<br>
+• RESTful API 연동<br>
+• 성능 최적화<br>
+• SPA 네비게이션<br>
+• 전역 상태 관리<br>
+• Code Splitting
+</p>
+<br>
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+<br>
 </td>
-<td valign="top">
-
-- ☁️ **Cloud Architecture**
-  - 클라우드 네이티브 애플리케이션 설계
-  
-- 📘 **TypeScript Advanced**
-  - 고급 타입 시스템 활용
-  
-- 📱 **React Native Deep Dive**
-  - 크로스 플랫폼 앱 최적화
-
-</td>
-<td valign="top">
-
-- 🔄 **Microservices**
-  - MSA 아키텍처 설계 및 구현
-  
-- 🎯 **System Design**
-  - 대규모 시스템 설계 능력 향상
-  
-- 🚀 **DevOps**
-  - 자동화된 배포 및 모니터링 구축
-
+<td width="50%" align="center" valign="top">
+<br>
+<h3>📱 모바일 친화 UI 서비스</h3>
+<p><b>React Native 크로스 플랫폼</b></p>
+<br>
+<p align="left">
+<b>🎯 주요 기능</b><br>
+• iOS/Android 동시 대응<br>
+• 직관적인 UI/UX 설계<br>
+• 네이티브 모듈 연동<br>
+• 반응형 디자인<br>
+• 로컬 데이터 관리<br>
+• Push Notification<br>
+• 제스처 & 애니메이션
+</p>
+<br>
+<p>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mobile-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+</p>
+<br>
 </td>
 </tr>
 </table>
 
-</details>
-
-<br>
 <br>
 
-<!-- GitHub Stats -->
+---
+
+<br>
+
+## ⚙️ Backend Projects
+
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+<br>
+<h3>🔧 REST API 서버</h3>
+<p><b>Spring Boot 엔터프라이즈</b></p>
+<br>
+<p align="left">
+<b>🎯 주요 기능</b><br>
+• RESTful API 설계<br>
+• MySQL + MyBatis 연동<br>
+• 계층형 구조 분리<br>
+• JWT 인증 & 보안<br>
+• Spring Security<br>
+• API 문서 자동화<br>
+• 트랜잭션 관리
+</p>
+<br>
+<p>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+<br>
+</td>
+<td width="50%" align="center" valign="top">
+<br>
+<h3>💬 실시간 기능 서비스</h3>
+<p><b>WebSocket 실시간 통신</b></p>
+<br>
+<p align="left">
+<b>🎯 주요 기능</b><br>
+• 경량 고성능 서버<br>
+• 양방향 데이터 전송<br>
+• 이벤트 기반 구조<br>
+• 다중 클라이언트 처리<br>
+• Socket.io 채팅<br>
+• Redis 세션 관리<br>
+• Room 기반 통신
+</p>
+<br>
+<p>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+<br>
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+## ☁️ Infrastructure & Deployment
+
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
+<br>
+<img src="https://img.icons8.com/color/96/amazon-web-services.png" width="80"/>
+<br><br>
+<h3>Cloud Platform</h3>
+<p>AWS / Naver Cloud<br>기반 서버 구성<br><br>클라우드 환경에서의<br>서버 운영 경험</p>
+<br>
+</td>
+<td width="34%" align="center" valign="top">
+<br>
+<img src="https://img.icons8.com/color/96/docker.png" width="80"/>
+<br><br>
+<h3>Containerization</h3>
+<p>Docker를 활용한<br>환경 분리<br><br>개발과 배포 환경을<br>일치시키는 관리</p>
+<br>
+</td>
+<td width="33%" align="center" valign="top">
+<br>
+<h2>🔄</h2>
+<br>
+<h3>CI/CD</h3>
+<p>지속적 통합/배포<br>파이프라인<br><br>자동화된 빌드와<br>배포 프로세스 구축</p>
+<br>
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+## 🎯 Focus Direction
+
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
+<br>
+<img src="https://img.icons8.com/fluency/48/code.png" width="60"/>
+<h3>Now Learning</h3>
+<br>
+<p align="left">
+• <b>Full Stack 서비스</b><br>
+&nbsp;&nbsp;통합 개발 경험<br><br>
+• <b>REST API 설계</b><br>
+&nbsp;&nbsp;확장 가능한 구조<br><br>
+• <b>구조 개선</b><br>
+&nbsp;&nbsp;클린 코드 적용
+</p>
+<br>
+</td>
+<td width="34%" align="center" valign="top">
+<br>
+<img src="https://img.icons8.com/fluency/48/star.png" width="60"/>
+<h3>Interest</h3>
+<br>
+<p align="left">
+• <b>Cloud Architecture</b><br>
+&nbsp;&nbsp;클라우드 네이티브 설계<br><br>
+• <b>TypeScript Advanced</b><br>
+&nbsp;&nbsp;고급 타입 시스템<br><br>
+• <b>React Native</b><br>
+&nbsp;&nbsp;크로스 플랫폼 최적화
+</p>
+<br>
+</td>
+<td width="33%" align="center" valign="top">
+<br>
+<img src="https://img.icons8.com/fluency/48/rocket.png" width="60"/>
+<h3>Future Goals</h3>
+<br>
+<p align="left">
+• <b>Microservices</b><br>
+&nbsp;&nbsp;MSA 아키텍처 구현<br><br>
+• <b>System Design</b><br>
+&nbsp;&nbsp;대규모 시스템 설계<br><br>
+• <b>DevOps</b><br>
+&nbsp;&nbsp;자동화된 배포 구축
+</p>
+<br>
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
 <div align="center">
 
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=library-min&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=library-min&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea)
-
-</div>
+## 📬 Contact
 
 <br>
-<br>
-
-<!-- Contact Section -->
-<div align="center">
-
-## 📬 Let's Connect!
 
 [![GitHub](https://img.shields.io/badge/GitHub-library--min-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/library-min)
 [![Email](https://img.shields.io/badge/Email-library__mini@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:library_mini@outlook.com)
 
+<br><br>
+
+### *"Code is poetry written in logic"*
+
 <br>
 
-### *"Code is like humor. When you have to explain it, it's bad."*
-– Cory House
+*Junior Full Stack Developer seeking opportunities to grow and contribute*
 
-<br>
+<br><br>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer)
 
 </div>
