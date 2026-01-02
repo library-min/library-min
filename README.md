@@ -47,7 +47,7 @@
 
 <br/>
 
-📬 **your.email@gmail.com**
+📬 **library_mini@outlook.com**
 
 <br/><br/>
 
