@@ -4,25 +4,15 @@
 
 <br/>
 
-# Hi there! 🙌
+<img src="https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=32&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%F0%9F%91%8B;%EC%84%9C%EC%9E%AC%EB%AF%BC%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%92%9C" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=28&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EC%84%9C%EC%9E%AC%EB%AF%BC%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%92%9C" alt="Typing SVG" />
+<br/><br/>
 
-<br/>
+🚀 **풀스택 개발자**를 꿈꾸며 매일 성장하고 있습니다
 
-```javascript
-const jaemin = {
-    role: "Full-Stack Developer 🚀",
-    passion: "사용자 중심의 서비스 만들기",
-    motto: "매일 1%씩 성장하자 📈",
-    currentlyLearning: ["Kotlin", "Python", "MongoDB"],
-    funFact: "커피보다 코드가 좋아요 ☕→💻"
-};
-```
+🎨 **UI/UX**에 관심이 많고, 사용자 중심의 서비스를 만들고 싶습니다
 
-<br/>
-
-> *"좋은 코드는 그 자체로 최고의 문서다"* ✨
+🌱 새로운 기술을 배우는 것을 즐기며, 꾸준히 기록하고 있습니다
 
 <br/><br/>
 
