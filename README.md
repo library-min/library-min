@@ -6,11 +6,6 @@
 
 <sub>🎯 사용자 경험 · 서버 안정성 · 구조 설계를 동시에 고민합니다</sub>
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-library--min-181717?style=for-the-badge&logo=github)](https://github.com/library-min)
-[![Email](https://img.shields.io/badge/Email-library__mini@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook)](mailto:library_mini@outlook.com)
-
 </div>
 
 <br>
@@ -48,15 +43,14 @@
 <b>Full Stack Flow</b><br>
 <sub>Frontend → Backend → DB → 배포<br>전체 개발 프로세스 이해</sub>
 </td>
+<td align="center" width="34%">
+<b>🎯 Problem Solving</b><br><br>
+<sub>기술 스택보다<br>문제 해결 과정 중시</sub>
+</td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/api.png" width="60"/><br>
 <b>Collaboration First</b><br>
 <sub>협업을 고려한 API 설계와<br>컴포넌트 분리 지향</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/problem-solving.png" width="60"/><br>
-<b>Problem Solving</b><br>
-<sub>기술 스택보다<br>문제 해결 과정 중시</sub>
 </td>
 </tr>
 </table>
@@ -101,7 +95,7 @@
 
 ## 🎨 Frontend Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -117,8 +111,9 @@
 
 #### 🎯 주요 기능
 - 컴포넌트 단위 UI 설계로 재사용성 극대화
-- Tailwind CSS를 활용한 반응형 레이아웃
+- Tailwind CSS를 활용한 반응형 레이아웃 구현
 - RESTful API 연동 및 효율적인 상태 관리
+- 성능 최적화를 통한 사용자 경험 개선
 
 <br>
 
@@ -126,6 +121,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<br>
 
 </td>
 <td width="50%" valign="top">
@@ -142,8 +139,9 @@
 
 #### 🎯 주요 기능
 - iOS / Android 동시 대응으로 개발 효율성 향상
-- 사용자 경험 최적화 및 UI/UX 개선
+- 사용자 경험 최적화 및 직관적인 UI/UX 설계
 - 네이티브 모듈 연동을 통한 성능 최적화
+- 반응형 디자인으로 다양한 디바이스 지원
 
 <br>
 
@@ -151,6 +149,8 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Mobile](https://img.shields.io/badge/Mobile-4285F4?style=for-the-badge&logo=android&logoColor=white)
+
+<br>
 
 </td>
 </tr>
@@ -164,7 +164,7 @@
 
 ## ⚙️ Backend Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -182,6 +182,7 @@
 - RESTful API 아키텍처 설계 및 구현
 - MySQL + MyBatis로 안정적인 데이터 관리
 - 계층형 구조 분리와 체계적인 예외 처리
+- JWT 인증 및 보안 기능 구현
 
 <br>
 
@@ -189,6 +190,8 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br>
 
 </td>
 <td width="50%" valign="top">
@@ -204,9 +207,10 @@
 <br>
 
 #### 🎯 주요 기능
-- Node.js를 활용한 경량 서버 구축
-- 양방향 실시간 데이터 전송 시스템
+- Node.js를 활용한 경량 고성능 서버 구축
+- 양방향 실시간 데이터 전송 시스템 구현
 - 이벤트 기반 아키텍처로 서버 상태 관리
+- 다중 클라이언트 동시 접속 처리
 
 <br>
 
@@ -214,6 +218,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+<br>
 
 </td>
 </tr>
