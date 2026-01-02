@@ -4,9 +4,11 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=32&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%F0%9F%91%8B;%EC%84%9C%EC%9E%AC%EB%AF%BC%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%92%9C" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=32&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=300&lines=%EB%B0%98%EA%B0%91%EC%8A%B5%EB%8B%88%EB%8B%A4+%F0%9F%91%8B" alt="Typing SVG" />
 
-<br/><br/>
+## 서재민
+
+<br/>
 
 🚀 **풀스택 개발자**를 꿈꾸며 매일 성장하고 있습니다
 
@@ -45,9 +47,7 @@
 
 <br/>
 
-<a href="mailto:your.email@gmail.com">
-  <img src="https://img.shields.io/badge/💌_Mail_Me!-C4B5FD?style=for-the-badge&logoColor=white"/>
-</a>
+📬 **your.email@gmail.com**
 
 <br/><br/>
 
