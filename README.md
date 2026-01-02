@@ -6,9 +6,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=32&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=300&lines=%EB%B0%98%EA%B0%91%EC%8A%B5%EB%8B%88%EB%8B%A4+%F0%9F%91%8B" alt="Typing SVG" />
 
+<br/><br/>
+
 ## 서재민
 
-<br/><br/>
+<br/>
 
 🚀 **풀스택 개발자**를 꿈꾸며 매일 성장하고 있습니다
 
