@@ -103,53 +103,100 @@
 
 ## 🎯 Core Competencies
 
-- **풀스택 개발**: 프론트엔드부터 백엔드까지 전체 개발 프로세스 이해
-- **반응형 웹**: 모바일, 태블릿, 데스크톱 등 다양한 디바이스 대응
-- **백엔드/서버 개발**: RESTful API 설계 및 서버 구축
-- **UI/UX 디자인**: 사용자 경험을 고려한 인터페이스 설계
-- **클라우드 인프라**: AWS, NCP를 활용한 서비스 배포 및 운영
+<div align="center">
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 📊 GitHub Stats
+### 🌐 Full Stack Development
+웹 서비스의 전체 라이프사이클을 이해하고
+프론트엔드부터 백엔드까지 구축할 수 있습니다
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=library-min&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+**Key Skills**
+- React 기반 SPA 개발
+- Spring Boot REST API 설계
+- 데이터베이스 모델링
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=library-min&layout=compact&theme=tokyonight&hide_border=true)
+</td>
+<td width="50%" valign="top">
 
----
+### 📱 Responsive Web
+다양한 디바이스에 최적화된
+반응형 웹 인터페이스를 구현합니다
 
-## 📜 Certifications
+**Key Skills**
+- Tailwind CSS 활용
+- Mobile-First Design
+- Cross-Browser 호환성
 
-### 취득 완료
-- 🏅 **NCA** (Naver Cloud Platform Certified Associate)
-- 🏅 **네트워크 관리사 2급**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 취득 예정
-- 🎯 리눅스마스터 2급 실기
-- 🎯 정보처리기사 실기
-- 🎯 SQLD
-- 🎯 ADSP
-- 🎯 컴퓨터 활용능력 2급
-- 🎯 경영 정보 시각화 능력
+### 🎨 UI/UX Design
+사용자 경험을 최우선으로 고려한
+직관적인 인터페이스를 설계합니다
 
----
+**Key Skills**
+- Figma 프로토타이핑
+- 사용자 중심 설계
+- 접근성 고려
 
-## 📫 Contact
+</td>
+<td width="50%" valign="top">
 
-<details>
-  <summary><strong>✉️ Click to view Email</strong></summary>
-  <br/>
-  📧 library_mini@outlook.com
-</details>
+### ☁️ Backend & Cloud
+안정적이고 확장 가능한
+서버 아키텍처를 구축합니다
+
+**Key Skills**
+- RESTful API 개발
+- AWS/NCP 인프라 구축
+- MySQL 데이터베이스 관리
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💡 "끊임없이 배우고, 성장하며, 가치를 창출하는 개발자"
+## 🚀 Development Philosophy
 
-[![GitHub followers](https://img.shields.io/github/followers/library-min?style=social)](https://github.com/library-min)
-[![GitHub stars](https://img.shields.io/github/stars/library-min?style=social)](https://github.com/library-min)
+```typescript
+const philosophy = {
+    passion: "매일 한 걸음씩 성장하는 개발자",
+    vision: "기술로 세상을 더 나은 곳으로 만들기",
+    approach: [
+        "사용자 중심의 설계",
+        "깨끗하고 유지보수 가능한 코드",
+        "지속적인 학습과 개선"
+    ]
+};
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 💬 Let's Connect!
+
+**함께 성장하고 싶은 개발자를 찾고 있습니다** 🤝
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/library-min)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:library_mini@outlook.com)
+
+---
+
+### ⭐️ "코드로 꿈을 현실로 만드는 개발자"
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
