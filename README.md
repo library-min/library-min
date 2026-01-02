@@ -1,154 +1,329 @@
 <div align="center">
 
-# 서재민 **SEO JAE MIN**
+# 👋 서재민 **SEO JAE MIN**
 
-### Junior Full Stack Developer
+### 💼 Junior Full Stack Developer
 
-<sub>사용자 경험 · 서버 안정성 · 구조 설계를 동시에 고민합니다</sub>
+<sub>🎯 사용자 경험 · 서버 안정성 · 구조 설계를 동시에 고민합니다</sub>
 
-[![GitHub](https://img.shields.io/badge/GitHub-library--min-181717?style=flat&logo=github)](https://github.com/library-min)
-[![Email](https://img.shields.io/badge/Email-library__mini%40outlook.com-0078D4?style=flat&logo=microsoft-outlook)](mailto:library_mini@outlook.com)
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-library--min-181717?style=for-the-badge&logo=github)](https://github.com/library-min)
+[![Email](https://img.shields.io/badge/Email-library__mini@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook)](mailto:library_mini@outlook.com)
 
 </div>
 
+<br>
+
 ---
+
+<br>
 
 ## 👨‍💻 Developer Profile
 
-```text
-✔ 화면만 만드는 개발자가 아닌, 데이터 흐름을 이해하는 개발자
-✔ 돌아가는 코드보다 유지보수 가능한 구조를 우선
-✔ 기능 구현 + 이유 설명이 가능한 주니어
+<div align="center">
+
+### 💡 Core Values
+
+</div>
+
+```yaml
+데이터 흐름 이해: 화면만 만드는 개발자가 아닌, 전체 시스템을 파악하는 개발자
+유지보수 우선: 돌아가는 코드보다 지속 가능한 구조를 설계
+설명 가능한 코드: 기능 구현 + 이유 설명이 가능한 주니어 개발자
 ```
 
-- 웹 · 모바일 서비스의 **전체 흐름** (Frontend → Backend → DB → 배포) 경험
-- 협업을 고려한 **API 설계**와 **컴포넌트 분리**를 지향
-- 기술 스택보다 **문제 해결 과정**을 중요하게 생각합니다
+<br>
+
+<div align="center">
+
+### 🎓 Experience & Philosophy
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/workflow.png" width="60"/><br>
+<b>Full Stack Flow</b><br>
+<sub>Frontend → Backend → DB → 배포<br>전체 개발 프로세스 이해</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/api.png" width="60"/><br>
+<b>Collaboration First</b><br>
+<sub>협업을 고려한 API 설계와<br>컴포넌트 분리 지향</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/problem-solving.png" width="60"/><br>
+<b>Problem Solving</b><br>
+<sub>기술 스택보다<br>문제 해결 과정 중시</sub>
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
-## 🛠 Main Skills
+<br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,react,nodejs,mysql,docker,aws,html,css,tailwind,git,github,figma,vscode,idea,postman&perline=9)](https://skillicons.dev)
+## 🛠 Tech Stack
 
-### Studying
+<div align="center">
 
-[![Learning](https://skillicons.dev/icons?i=kotlin,python,mongodb)](https://skillicons.dev)
+### 💻 Frontend Development
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=light)](https://skillicons.dev)
+
+### ⚙️ Backend Development
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=light)](https://skillicons.dev)
+
+### 🗄️ Database & Cloud
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,aws,docker&theme=light)](https://skillicons.dev)
+
+### 🔧 Tools & Environment
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma&theme=light)](https://skillicons.dev)
+
+### 📚 Currently Learning
+
+[![Learning](https://skillicons.dev/icons?i=kotlin,python,mongodb&theme=light)](https://skillicons.dev)
+
+</div>
+
+<br>
 
 ---
+
+<br>
 
 ## 🎨 Frontend Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📌 사용자 중심 웹 서비스
-**React + TypeScript 기반 SPA**
+<div align="center">
 
-- 컴포넌트 단위 UI 설계
-- Tailwind CSS 반응형 구현
-- API 연동 및 상태 관리
+### 📱 사용자 중심 웹 서비스
 
-**Tech Stack**  
-`React` `TypeScript` `Tailwind CSS`
+</div>
+
+**React + TypeScript 기반 SPA 구축**
+
+<br>
+
+#### 🎯 주요 기능
+- 컴포넌트 단위 UI 설계로 재사용성 극대화
+- Tailwind CSS를 활용한 반응형 레이아웃
+- RESTful API 연동 및 효율적인 상태 관리
+
+<br>
+
+#### 🛠 Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📌 모바일 친화 UI 서비스
-**React Native 기반 앱**
+<div align="center">
 
-- iOS / Android 동시 대응
-- UX 흐름 개선 및 화면 최적화
-- 크로스 플랫폼 개발
+### 📱 모바일 친화 UI 서비스
 
-**Tech Stack**  
-`React Native` `Figma` `UI/UX`
+</div>
+
+**React Native 크로스 플랫폼 앱 개발**
+
+<br>
+
+#### 🎯 주요 기능
+- iOS / Android 동시 대응으로 개발 효율성 향상
+- 사용자 경험 최적화 및 UI/UX 개선
+- 네이티브 모듈 연동을 통한 성능 최적화
+
+<br>
+
+#### 🛠 Tech Stack
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Mobile](https://img.shields.io/badge/Mobile-4285F4?style=for-the-badge&logo=android&logoColor=white)
 
 </td>
 </tr>
 </table>
 
+<br>
+
 ---
+
+<br>
 
 ## ⚙️ Backend Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📌 REST API 서버
-**Spring Boot 기반 서버 설계**
+<div align="center">
 
-- RESTful API 구조 설계
-- MySQL + MyBatis 연동
-- 예외 처리 및 계층 분리
+### 🔧 REST API 서버
 
-**Tech Stack**  
-`Spring Boot` `Java` `MySQL` `MyBatis`
+</div>
+
+**Spring Boot 기반 엔터프라이즈 서버**
+
+<br>
+
+#### 🎯 주요 기능
+- RESTful API 아키텍처 설계 및 구현
+- MySQL + MyBatis로 안정적인 데이터 관리
+- 계층형 구조 분리와 체계적인 예외 처리
+
+<br>
+
+#### 🛠 Tech Stack
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📌 실시간 기능 서비스
-**WebSocket 기반 실시간 통신**
+<div align="center">
 
-- Node.js 활용
-- 서버 상태 관리 및 이벤트 처리
-- 양방향 실시간 데이터 전송
+### 💬 실시간 기능 서비스
 
-**Tech Stack**  
-`Node.js` `WebSocket` `REST API`
+</div>
+
+**WebSocket 기반 실시간 통신 구현**
+
+<br>
+
+#### 🎯 주요 기능
+- Node.js를 활용한 경량 서버 구축
+- 양방향 실시간 데이터 전송 시스템
+- 이벤트 기반 아키텍처로 서버 상태 관리
+
+<br>
+
+#### 🛠 Tech Stack
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
 </td>
 </tr>
 </table>
 
+<br>
+
 ---
+
+<br>
 
 ## ☁️ Infrastructure & Deployment
 
-```yaml
-Cloud Platform: AWS / Naver Cloud 기반 서버 구성
-Containerization: Docker로 개발 · 배포 환경 분리
-CI/CD: 기본적인 CI/CD 흐름 이해 및 적용
-```
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/amazon-web-services.png" width="60"/><br>
+<b>Cloud Platform</b><br>
+<sub>AWS / Naver Cloud 기반<br>서버 구성 및 운영</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/docker.png" width="60"/><br>
+<b>Containerization</b><br>
+<sub>Docker로 개발·배포<br>환경 분리 및 관리</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/infinity-loop.png" width="60"/><br>
+<b>CI/CD</b><br>
+<sub>지속적 통합/배포<br>파이프라인 구축</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
 
 ---
+
+<br>
 
 ## 🎯 Focus Direction
 
 <table>
 <tr>
-<th width="33%">Now Learning</th>
-<th width="33%">Interest</th>
-<th width="33%">Future Goals</th>
+<th width="33%" align="center">
+<img src="https://img.icons8.com/fluency/48/code.png" width="30"/> Now Learning
+</th>
+<th width="33%" align="center">
+<img src="https://img.icons8.com/fluency/48/star.png" width="30"/> Interest
+</th>
+<th width="33%" align="center">
+<img src="https://img.icons8.com/fluency/48/rocket.png" width="30"/> Future Goals
+</th>
 </tr>
 <tr>
-<td>
+<td valign="top">
 
-- Full Stack 서비스 구현
-- REST API 설계
-- 구조 개선
+<br>
+
+- 🎨 **Full Stack 서비스 구현**
+  - 프론트엔드부터 백엔드까지 통합 개발
+  
+- 🔌 **REST API 설계**
+  - 확장 가능한 API 아키텍처 구축
+  
+- 🏗️ **구조 개선**
+  - 클린 코드와 디자인 패턴 적용
+
+<br>
 
 </td>
-<td>
+<td valign="top">
 
-- Cloud Architecture
-- TypeScript Advanced
-- React Native Deep Dive
+<br>
+
+- ☁️ **Cloud Architecture**
+  - 클라우드 네이티브 애플리케이션 설계
+  
+- 📘 **TypeScript Advanced**
+  - 고급 타입 시스템 활용
+  
+- 📱 **React Native Deep Dive**
+  - 크로스 플랫폼 앱 최적화
+
+<br>
 
 </td>
-<td>
+<td valign="top">
 
-- Microservices
-- System Design
-- DevOps
+<br>
+
+- 🔄 **Microservices**
+  - MSA 아키텍처 설계 및 구현
+  
+- 🎯 **System Design**
+  - 대규모 시스템 설계 능력 향상
+  
+- 🚀 **DevOps**
+  - 자동화된 배포 및 모니터링 구축
+
+<br>
 
 </td>
 </tr>
 </table>
+
+<br>
 
 ---
 
