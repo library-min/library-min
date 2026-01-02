@@ -95,9 +95,11 @@
 
 ## 🎨 Frontend Projects
 
-<table width="100%" cellpadding="20" cellspacing="0">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout: fixed;">
 <tr>
-<td width="50%" valign="top" style="padding: 20px;">
+<td width="50%" valign="top" style="padding-right: 10px;">
+
+<div style="padding: 25px; border: 1px solid #e1e4e8; border-radius: 6px; height: 100%; background-color: #f6f8fa;">
 
 <div align="center">
 
@@ -127,8 +129,12 @@
 
 <br>
 
+</div>
+
 </td>
-<td width="50%" valign="top" style="padding: 20px;">
+<td width="50%" valign="top" style="padding-left: 10px;">
+
+<div style="padding: 25px; border: 1px solid #e1e4e8; border-radius: 6px; height: 100%; background-color: #f6f8fa;">
 
 <div align="center">
 
@@ -158,6 +164,8 @@
 
 <br>
 
+</div>
+
 </td>
 </tr>
 </table>
@@ -170,9 +178,11 @@
 
 ## ⚙️ Backend Projects
 
-<table width="100%" cellpadding="20" cellspacing="0">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout: fixed;">
 <tr>
-<td width="50%" valign="top" style="padding: 20px;">
+<td width="50%" valign="top" style="padding-right: 10px;">
+
+<div style="padding: 25px; border: 1px solid #e1e4e8; border-radius: 6px; height: 100%; background-color: #f6f8fa;">
 
 <div align="center">
 
@@ -202,8 +212,12 @@
 
 <br>
 
+</div>
+
 </td>
-<td width="50%" valign="top" style="padding: 20px;">
+<td width="50%" valign="top" style="padding-left: 10px;">
+
+<div style="padding: 25px; border: 1px solid #e1e4e8; border-radius: 6px; height: 100%; background-color: #f6f8fa;">
 
 <div align="center">
 
@@ -232,6 +246,8 @@
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
 <br>
+
+</div>
 
 </td>
 </tr>
