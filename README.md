@@ -2,11 +2,27 @@
 
 <div align="center">
 
-## 안녕하세요! 👋 서재민입니다
+<br/>
 
-**풀스택 개발자를 꿈꾸며 매일 성장하고 있습니다**
+# Hi there! 🙌
 
-사용자 경험을 고민하고, 깔끔한 코드를 작성하는 것을 좋아합니다
+<img src="https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=28&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EC%84%9C%EC%9E%AC%EB%AF%BC%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%92%9C" alt="Typing SVG" />
+
+<br/>
+
+```javascript
+const jaemin = {
+    role: "Full-Stack Developer 🚀",
+    passion: "사용자 중심의 서비스 만들기",
+    motto: "매일 1%씩 성장하자 📈",
+    currentlyLearning: ["Kotlin", "Python", "MongoDB"],
+    funFact: "커피보다 코드가 좋아요 ☕→💻"
+};
+```
+
+<br/>
+
+> *"좋은 코드는 그 자체로 최고의 문서다"* ✨
 
 <br/><br/>
 
@@ -40,10 +56,10 @@
 <br/>
 
 <a href="mailto:your.email@gmail.com">
-  <img src="https://img.shields.io/badge/📬 Email-C4B5FD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/💌_Mail_Me!-C4B5FD?style=for-the-badge&logoColor=white"/>
 </a>
 
-<br/>
+<br/><br/>
 
 </div>
 
