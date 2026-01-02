@@ -39,7 +39,9 @@
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+<a href="mailto:your.email@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT%20ME-8B5CF6?style=for-the-badge&logo=minutemailer&logoColor=white"/>
+</a>
 
 <br/>
 
