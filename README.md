@@ -22,7 +22,7 @@
 
 ## 👨‍💻 Developer Profile
 
-<table width="100%">
+<table width="100%" cellpadding="0" cellspacing="0">
 <tr>
 <td width="33%" align="center" valign="top">
 <br>
@@ -86,7 +86,7 @@
 
 ## 🎨 Frontend Projects
 
-<table width="100%">
+<table width="100%" cellpadding="0" cellspacing="0">
 <tr>
 <td width="50%" align="center" valign="top">
 <br>
@@ -145,7 +145,7 @@
 
 ## ⚙️ Backend Projects
 
-<table width="100%">
+<table width="100%" cellpadding="0" cellspacing="0">
 <tr>
 <td width="50%" align="center" valign="top">
 <br>
@@ -204,7 +204,7 @@
 
 ## ☁️ Infrastructure & Deployment
 
-<table width="100%">
+<table width="100%" cellpadding="0" cellspacing="0">
 <tr>
 <td width="33%" align="center" valign="top">
 <br>
@@ -241,7 +241,7 @@
 
 ## 🎯 Focus Direction
 
-<table width="100%">
+<table width="100%" cellpadding="0" cellspacing="0">
 <tr>
 <td width="33%" align="center" valign="top">
 <br>
