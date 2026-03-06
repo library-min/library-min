@@ -1,17 +1,7 @@
-<div align="center">
-
 # 서재민 | Jae Min Seo
 
 **Full-stack Developer**  
 기술로 팀의 문제를 해결하고, 함께 성장하는 개발자
-
-<br />
-
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@library_mini/posts)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/library-min)
-[![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:library_mini@outlook.com)
-
-</div>
 
 ---
 
