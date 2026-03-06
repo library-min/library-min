@@ -1,69 +1,117 @@
-```
- ╔══════════════════════════════════════════════════════════════╗
- ║                                                              ║
- ║              👋 안녕하세요, 서재민입니다                      ║
- ║                                                              ║
- ║         풀스택 개발자 | 기술로 팀을 돕는 개발자             ║
- ║                                                              ║
- ╚══════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+  
+  # 서재민 (Jae Min Seo)
+  
+  **Full-stack Developer** • Building Better Technology Together
+  
+  ---
+  
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/1/spacer.gif" height="20">
 
-## 💬 About Me
+## 🎯 About Me
 
-기술로 팀의 불편함을 해결하고, 함께 성장하는 것을 목표로 하고 있습니다.
+저는 **기술로 팀의 불편함을 해결**하고 **함께 성장하는 개발자**입니다.
 
-K-Digital Training을 통해 웹과 모바일 개발을 체계적으로 학습했으며, 
-Neighbus 프로젝트에서 관리자 시스템부터 모바일 앱까지 전 과정을 경험했습니다.
+단순히 코드를 짜는 것이 아니라, 팀의 목소리를 경청하고 백엔드부터 프론트엔드까지 전 과정에서 더 나은 기술 기반을 함께 만들어갑니다.
 
-코드만 잘 짜는 개발자가 아니라, 팀의 목소리를 경청하고 
-함께 더 나은 기술 기반을 만드는 개발자를 지향합니다.
+K-Digital Training을 통해 체계적으로 학습했으며, **Neighbus 프로젝트**에서 관리자 시스템 설계부터 모바일 앱 개발까지 전담하며 실무 경험을 쌓았습니다.
 
 ---
 
 ## 🛠 Tech Stack
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<table>
+<tr>
+<td>
+  
+**Frontend**
+```
+React
+React Native
+TypeScript
+JavaScript
+HTML5 / CSS3
+Bootstrap 5
+Chart.js
+```
+  
+</td>
+<td>
 
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/REST API-FF6B6B?style=flat&logoColor=white" />
+**Backend**
+```
+Spring Boot
+Java
+MySQL
+MyBatis
+REST API
+AJAX
+```
 
-<img src="https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logoColor=white" />
+</td>
+<td>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
+**Tools & Collab**
+```
+Git / GitHub
+Figma
+Jira
+Linux
+Google Maps API
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ✨ Core Values
+## ✨ Core Competencies
 
 | | |
-|---|---|
-| 🚀 **실행력** | 필요한 일을 빠르게 파악하고 즉시 실행 |
-| 🤝 **협업** | 팀의 목소리를 경청하고 함께 성장 |
-| 💡 **전문성** | 기술만큼 사용자와 팀을 생각하는 개발자 |
-| 📚 **학습** | 빠른 성장보다 깊이 있는 학습을 추구 |
+|:--:|:--|
+| **🚀 Execution** | 팀의 필요를 빠르게 파악하고 즉시 행동으로 옮기는 실행력 |
+| **🤝 Collaboration** | 팀의 목소리를 경청하고 함께 더 나은 방향을 모색하는 협업 능력 |
+| **💡 Expertise** | 기술만큼 사용자와 팀을 생각하는 전문성 |
+| **📚 Growth Mindset** | 빠른 성장보다 깊이 있는 학습을 추구하는 자세 |
 
 ---
 
-## 📚 Education
+## 🎓 Education & Training
 
-<img src="https://img.shields.io/badge/K--Digital Training-FF6B35?style=for-the-badge" />
+<div align="center">
+  
+**K-Digital Training** — Full-stack Web/App Developer  
+*고용노동부 · 유원대학교*  
+2025.07 ~ 2025.12
 
-**풀스택 웹/앱 개발자 전문가 양성 과정**
-- 기관: 고용노동부 / 유원대학교
-- 기간: 2025.07 ~ 2025.12
+</div>
+
+**Core Learning:**
+- Web & Mobile Frontend Development (React, React Native, TypeScript)
+- Backend Server Architecture (Spring Boot, REST API, Database Design)
+- Cross-platform Development & Real-time Communication
+- Agile & Collaboration Process (Jira, Git, Figma)
 
 ---
 
-## 📫 Contact
+## 📬 Get in Touch
 
-<a href="mailto:library_mini@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a> <a href="https://velog.io/@library_mini/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logoColor=white" /></a> <a href="https://github.com/library-min"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+<div align="center">
 
-- **Phone**: 010-8602-2682
-- **Email**: library_mini@outlook.com
+[📧 Email](mailto:library_mini@outlook.com) • [📱 Phone](tel:01086022682) • [📝 Blog](https://velog.io/@library_mini/posts) • [💻 GitHub](https://github.com/library-min)
+
+**library_mini@outlook.com** | 010-8602-2682
+
+</div>
 
 ---
 
-```
-  함께 성장할 팀을 찾고 있습니다. 언제든지 연락 주세요! 😊
-```
+<div align="center">
+  
+**함께 성장할 팀을 찾고 있습니다.**  
+*언제든지 연락 주세요. 😊*
+
+</div>
