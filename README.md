@@ -45,6 +45,7 @@ K-Digital Training을 통해 웹·앱 개발 전반을 체계적으로 학습했
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
+
 ---
 
 ## Strengths
