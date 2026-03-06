@@ -37,8 +37,14 @@ K-Digital Training을 통해 웹·앱 개발 전반을 체계적으로 학습했
 </p>
 
 **Other**  
-`React Native` `MyBatis` `REST API` `AJAX` `Chart.js` `Google Maps API`
-
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MyBatis-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" />
+  <img src="https://img.shields.io/badge/AJAX-4A90E2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
+</p>
 ---
 
 ## Strengths
