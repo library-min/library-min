@@ -67,7 +67,7 @@ K-Digital Training을 통해 웹·앱 개발 전반을 체계적으로 학습했
 ## Education
 
 **K-Digital Training — Full-stack Web/App Developer**  
-고용노동부 · 유원대학교  
+고용노동부 · 유원대학교 · 최우수상
 2025.07 - 2025.12
 
 ### What I Learned
@@ -80,14 +80,8 @@ K-Digital Training을 통해 웹·앱 개발 전반을 체계적으로 학습했
 
 ## Contact
 
-- **Email**: [library_mini@outlook.com](mailto:library_mini@outlook.com)
 - **Blog**: [velog.io/@library_mini/posts](https://velog.io/@library_mini/posts)
+- **Email**: [library_mini@outlook.com](mailto:library_mini@outlook.com)
 - **GitHub**: [github.com/library-min](https://github.com/library-min)
 
 ---
-
-<div align="center">
-
-**함께 성장할 팀을 찾고 있습니다.**
-
-</div>
