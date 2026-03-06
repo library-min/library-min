@@ -14,30 +14,30 @@ K-Digital Training을 통해 웹·앱 개발 전반을 체계적으로 학습했
 
 ## Tech Stack
 
-### Frontend
-`React` `React Native` `TypeScript` `JavaScript` `HTML5` `CSS3` `Bootstrap 5` `Chart.js`
+**Frontend**  
+React · React Native · TypeScript · JavaScript · HTML5 · CSS3 · Bootstrap 5 · Chart.js
 
-### Backend
-`Spring Boot` `Java` `MySQL` `MyBatis` `REST API` `AJAX`
+**Backend**  
+Spring Boot · Java · MySQL · MyBatis · REST API · AJAX
 
-### Tools
-`Git` `GitHub` `Figma` `Jira` `Linux` `Google Maps API`
+**Tools**  
+Git · GitHub · Figma · Jira · Linux · Google Maps API
 
 ---
 
 ## Strengths
 
-- **Execution**  
-  필요한 일을 빠르게 파악하고 직접 구현까지 연결하는 실행력
+**Execution**  
+필요한 일을 빠르게 파악하고 직접 구현까지 연결하는 실행력
 
-- **Collaboration**  
-  팀의 의견을 경청하고 더 나은 방향을 함께 만들어가는 협업 능력
+**Collaboration**  
+팀의 의견을 경청하고 더 나은 방향을 함께 만들어가는 협업 능력
 
-- **Problem Solving**  
-  단순한 개발이 아니라 실제 불편을 해결하는 문제 해결 중심의 사고
+**Problem Solving**  
+단순한 개발이 아니라 실제 불편을 해결하는 문제 해결 중심의 사고
 
-- **Growth Mindset**  
-  빠른 결과보다 꾸준하고 깊이 있는 성장을 지향하는 태도
+**Growth Mindset**  
+빠른 결과보다 꾸준하고 깊이 있는 성장을 지향하는 태도
 
 ---
 
@@ -47,7 +47,7 @@ K-Digital Training을 통해 웹·앱 개발 전반을 체계적으로 학습했
 고용노동부 · 유원대학교  
 2025.07 - 2025.12
 
-### What I Learned
+**What I Learned**
 - React, React Native, TypeScript 기반 웹/앱 프론트엔드 개발
 - Spring Boot, REST API, DB 설계를 포함한 백엔드 아키텍처
 - 실시간 통신 및 크로스플랫폼 개발 경험
@@ -57,9 +57,14 @@ K-Digital Training을 통해 웹·앱 개발 전반을 체계적으로 학습했
 
 ## Contact
 
-- **Email**: [library_mini@outlook.com](mailto:library_mini@outlook.com)
-- **Blog**: [velog.io/@library_mini/posts](https://velog.io/@library_mini/posts)
-- **GitHub**: [github.com/library-min](https://github.com/library-min)
+**Email**  
+[library_mini@outlook.com](mailto:library_mini@outlook.com)
+
+**Blog**  
+[velog.io/@library_mini/posts](https://velog.io/@library_mini/posts)
+
+**GitHub**  
+[github.com/library-min](https://github.com/library-min)
 
 ---
 
