@@ -1,20 +1,3 @@
-<div align="center">
-
-# 서재민 | Jae Min Seo
-
-풀스택 개발자  
-**팀의 불편함을 기술로 해결하고, 함께 성장하는 개발자**
-
-<br />
-
-[![Email](https://img.shields.io/badge/Email-library__mini@outlook.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:library_mini@outlook.com)
-[![Blog](https://img.shields.io/badge/Blog-Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@library_mini/posts)
-[![GitHub](https://img.shields.io/badge/GitHub-library--min-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/library-min)
-
-</div>
-
----
-
 ## About Me
 
 안녕하세요.  
